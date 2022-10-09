@@ -4,6 +4,8 @@
 
 Official test script for 2019 BMVC spotlight paper 'One-shot Face Reenactment' in PyTorch.
 
+[DAGsHub Repository](https://dagshub.com/Bharat-mtr/One_Shot_Face_Reenactment)
+
 <img src="https://github.com/bj80heyue/Learning_One_Shot_Face_Reenactment/blob/master/pics/main.png" width = 900 align=middle>
 
 ## Installation
@@ -65,7 +67,7 @@ output sequence:
 ```
 
 ### Pretrained model
-You can download models from [here](https://drive.google.com/open?id=1Wnc2TGwFQM4PdCdeSn-trI75UeGbuY_E) 
+[Pretrained Model DAGshub Link](https://dagshub.com/Bharat-mtr/One_Shot_Face_Reenactment/src/master/model_weights/LOFR_models) 
 ```shell
 Project
 ├── pretrainModel
@@ -81,7 +83,7 @@ Project
 ```
 
 ### Visualization of results
-You can download our sample data and corresponding results from [here](https://drive.google.com/open?id=1Ia8YJrtYTvNRwBfcKK7iBSAf5vb8gkqw)
+You can download our sample data and corresponding results from [here](https://dagshub.com/Bharat-mtr/One_Shot_Face_Reenactment/src/master/sample_images/LOFR%20synthetic%20images)
 
 ## License and Citation
 The use of this software follows **MIT License**.
